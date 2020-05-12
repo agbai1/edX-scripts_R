@@ -104,4 +104,5 @@ c(1, "canada", 3)
 * Vectors can be created by concatenating
 	`cost <- c(50, 65, 70, 95, 115)`
 
+* Vectors can also be created by specific increasing sequence 
 *  `seq(2, 10, length.out = 5)` _length.out = 5_ lets us generate sequences that are increasing by the same amount but are of the prespecified length.
